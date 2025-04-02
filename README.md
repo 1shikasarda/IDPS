@@ -12,7 +12,7 @@ The Intrusion Detection and Prevention System (IDPS) is a critical cybersecurity
 
 ✔️ Automated Prevention – Instantly stops attacks such as malware, phishing, DDoS, and unauthorized access attempts 🚨
 
-✔️ User Alerts & Blacklist Management – Notifies users of blocked threats and allows administrators to manually manage blacklisted URLs/IPs📝
+✔️ User Alerts & Blacklist Management–Notifies users of blocked threats and allows administrators to manually manage blacklisted URLs/IPs📝
 
 ✔️ Logging & Reporting – Maintains detailed records of security events for compliance and forensic analysis 📊
 

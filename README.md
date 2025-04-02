@@ -5,10 +5,15 @@ The Intrusion Detection and Prevention System (IDPS) is a critical cybersecurity
 
 ## *Key Features*
 ✔️ Real-Time Threat Detection – Continuously scans network traffic, system logs, and user activities for suspicious behavior 🔍
+
 ✔️ Malicious URL Blocking – Automatically detects and blocks unsafe links using threat intelligence databases and heuristic analysis 🚫
+
 ✔️ Signature & Anomaly-Based Detection – Identifies known attack patterns (signatures) and unusual behavior (anomalies) 🔍
+
 ✔️ Automated Prevention – Instantly stops attacks such as malware, phishing, DDoS, and unauthorized access attempts 🚨
+
 ✔️ User Alerts & Blacklist Management – Notifies users of blocked threats and allows administrators to manually manage blacklisted URLs/IPs 📝
+
 ✔️ Logging & Reporting – Maintains detailed records of security events for compliance and forensic analysis 📊
 
 ## *Use Cases *
